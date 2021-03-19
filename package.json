@@ -1,0 +1,12 @@
+{
+  "name": "typescriptBC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/m3k0813/typescriptBC.git",
+  "author": "m3k0813 <m3k0813@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
