@@ -1,1 +1,2 @@
-#Typescript Blockchain
+## Typescript Blockchain
+Learning Typescript
